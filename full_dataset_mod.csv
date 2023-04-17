@@ -1,0 +1,4 @@
+time,amount_spent,age,income,member_duration_days,difficulty,duration,reward_per_hour,email,mobile,social,web,bogo,discount,informational,gender__f,gender__m,gender__o,buy_with_offer
+132,19.89,75,100000.0,443,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,0
+132,0.0,75,100000.0,443,5.0,168.0,0.0297619047619047,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1,0,0,1
+144,17.78,75,100000.0,443,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0,0,0
